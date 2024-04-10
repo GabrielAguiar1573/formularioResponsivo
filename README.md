@@ -6,7 +6,7 @@
 
 ## Acesso
 
- [Clique aqui para acessar!]([https://gabrielaguiar1573.github.io/formularioResponsivo/])
+ [Clique aqui para acessar!](https://gabrielaguiar1573.github.io/formularioResponsivo/)
 
 ## Tecnologias
 
