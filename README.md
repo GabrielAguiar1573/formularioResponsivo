@@ -1,4 +1,6 @@
 # Formulário responsivo 
+
+![preview](./formularioResponsivo.png)
  
  - Formulário de registro responsivo, projetado para se adaptar a diferentes tamanhos de tela, como em dispositivos móveis e desktops. O design e a disposição dos elementos são feitos de forma a facilitar a interação do usuário, proporcionando uma experiência amigável e acessível.
 
